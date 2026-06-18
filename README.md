@@ -7,4 +7,4 @@
 - 🎸 Toco Violão ...
 - 📫 Entre em contato comigo:enzo.bragatti.pereira@escola.pr.gov.br
 
--   <img src="https://media.tenor.com/wxvbn7EwAlcAAAAm/the-boys-billy-butcher.webp" width="500px" />
+-   <img src="https://media.tenor.com/tVBFTlCeNioAAAAM/enjoying-food-at-the-game-billy.gif" />
