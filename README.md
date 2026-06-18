@@ -1,10 +1,5 @@
 ## Seja bem-vindo a minha página👋
 
-<!--
-**enzobragattipereira-prog/enzobragattipereira-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🚗 Gosto de carros ...
 - 🎮 Gosto de vídeo-games ...
 - 🎺 Toco Trompete ...
@@ -12,5 +7,4 @@ Here are some ideas to get you started:
 - 🎸 Toco Violão ...
 - 📫 Entre em contato comigo:enzo.bragatti.pereira@escola.pr.gov.br
 
--->
 
