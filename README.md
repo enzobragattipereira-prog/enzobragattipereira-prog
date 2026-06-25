@@ -7,4 +7,4 @@
 - 🎸 Toco Violão ...
 - 📫 Entre em contato comigo:enzo.bragatti.pereira@escola.pr.gov.br
 
-  -![](https://media1.tenor.com/m/jDKGn0xvXLsAAAAC/bienvenue.gif)
+  -![](https://media1.tenor.com/m/IKOSoEs64aAAAAAC/skibidi-sigma.gif)
